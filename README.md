@@ -1,7 +1,6 @@
 # Crime Data Analysis
 <br>
 
-Find the solutions to these questions: 
 1. Overall Crime Trends: Calculate and plot the total number of crimes per year to visualize the trends. 
 2. Seasonal Patterns: Group the data by month and analyze the average number of crimes per month over 
 the years. 
@@ -22,3 +21,6 @@ factors (e.g., age, gender) and specific types of crimes.
 10. Predicting Future Trends: Employ time series forecasting methods, such as ARIMA or Prophet, to predict 
 future crime trends based on historical data. Consider incorporating relevant 
 external factors into your models.
+
+# Dataset: 
+https://data.census.gov/profile/Los_Angeles_city,_California?g=160XX00US0644000
